@@ -1,3 +1,2 @@
 # hello-world
-Research project on using the data
-Nothing to add
+Hand-on Github
